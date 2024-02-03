@@ -1,1 +1,1 @@
-# pl_mnist_2
+# Example Mnist 2 using Pytorch Lightning
